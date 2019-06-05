@@ -52,7 +52,7 @@ CREATE TABLE `tb_customer` (
 
 例如生成的映射文件：
 
-![在这里插入图片描述](https://github.com/Tellsea/ssm/blob/master/doc/images/100.png)
+![在这里插入图片描述](https://github.com/Tellsea/ssm/blob/master/doc/images/07.png)
 
 其中已经帮我们生成了基本的增加、删除、更新方法。下面简单的说明一下方法的作用：
 
@@ -63,7 +63,7 @@ CREATE TABLE `tb_customer` (
 | insert | 插入一条数据，| **除了id之外，必须要有每个字段值** |
 | insertSelective | 插入一条数据 | **只会插入不为空的字段** |
 | updateByPrimaryKeySelective | 根据主键更新数据 | **更新的是传入参数不为空的字段** |
-| updateByPrimaryKey | 根据主键更新数据 | **更新所有字段** | 
+| updateByPrimaryKey | 根据主键更新数据 | **更新所有字段** |
 
 ### Lombok 插件
 
@@ -107,10 +107,15 @@ public class Customer {
 # 项目预览
 
 ![在这里插入图片描述](https://github.com/Tellsea/ssm/blob/master/doc/images/01.png)
+
 ![在这里插入图片描述](https://github.com/Tellsea/ssm/blob/master/doc/images/02.png)
+
 ![在这里插入图片描述](https://github.com/Tellsea/ssm/blob/master/doc/images/03.png)
+
 ![在这里插入图片描述](https://github.com/Tellsea/ssm/blob/master/doc/images/04.png)
+
 ![在这里插入图片描述](https://github.com/Tellsea/ssm/blob/master/doc/images/05.png)
+
 ![在这里插入图片描述](https://github.com/Tellsea/ssm/blob/master/doc/images/06.png)
 
 # 交流学习
