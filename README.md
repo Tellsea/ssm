@@ -50,8 +50,11 @@ CREATE TABLE `tb_customer` (
 
 用于快速生成开发中不断重复的代码，比如说实体类，映射层接口，以及Mybatis XML文件的编写，只需要提供数据库连接的jar地址，数据库名称，账号密码即可一键生成：实体类，Mapper接口，Mapper映射文件。
 
-例如生成的映射文件：![在这里插入图片描述](https://img-blog.csdnimg.cn/20190605161602696.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4NzYyMjM3,size_16,color_FFFFFF,t_70)
-其中已经帮我们生成了基本的增加、删除、更新方法。
+例如生成的映射文件：
+
+![在这里插入图片描述](https://github.com/Tellsea/ssm/blob/master/doc/images/100.png)
+
+其中已经帮我们生成了基本的增加、删除、更新方法。下面简单的说明一下方法的作用：
 
 |方法名称| 方法作用 | 方法说明 |
 |:--|:--|:--|
@@ -103,6 +106,13 @@ public class Customer {
 
 # 项目预览
 
+![在这里插入图片描述](https://github.com/Tellsea/ssm/blob/master/doc/images/01.png)
+![在这里插入图片描述](https://github.com/Tellsea/ssm/blob/master/doc/images/02.png)
+![在这里插入图片描述](https://github.com/Tellsea/ssm/blob/master/doc/images/03.png)
+![在这里插入图片描述](https://github.com/Tellsea/ssm/blob/master/doc/images/04.png)
+![在这里插入图片描述](https://github.com/Tellsea/ssm/blob/master/doc/images/05.png)
+![在这里插入图片描述](https://github.com/Tellsea/ssm/blob/master/doc/images/06.png)
 
-交流学习
+# 交流学习
+
 QQ群：957406675 Tellsea's blog
