@@ -78,12 +78,6 @@
             <version>1.8.7</version>
         </dependency>
 
-        <!-- JSON处理 -->
-        <dependency>
-            <groupId>com.fasterxml.jackson.core</groupId>
-            <artifactId>jackson-databind</artifactId>
-            <version>2.9.5</version>
-        </dependency>
         <!-- JUnit4测试工具 -->
         <dependency>
             <groupId>junit</groupId>
