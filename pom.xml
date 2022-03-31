@@ -12,7 +12,7 @@
 
     <!-- 用来设置版本号 -->
     <properties>
-        <spring.version>5.0.2.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <mybatis.version>3.4.5</mybatis.version>
     </properties>
 
